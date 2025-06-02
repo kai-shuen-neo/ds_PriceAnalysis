@@ -1,3 +1,3 @@
-# Data_Analytics_FYP
+# Data Science and Analytics
 
-## CryptocurrencyPriceAnalysis
+## Cryptocurrency Price Analysis
