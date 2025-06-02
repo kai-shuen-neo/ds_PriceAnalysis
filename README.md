@@ -1,3 +1,5 @@
 # Data Science and Analytics
 
-## Cryptocurrency Price Analysis
+## Final Year Project
+
+### Cryptocurrency Price Analysis
