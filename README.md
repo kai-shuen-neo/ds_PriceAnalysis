@@ -3,6 +3,7 @@
 ## NTU Final Year Project (Honours)
 
 ### Cryptocurrency Price Analysis
+Publication: [Cryptocurrency Price Analysis](https://dr.ntu.edu.sg/entities/publication/0b9fb091-8177-482c-90d0-a4794fbc36e8) 
 
 #### Objectives
 A multitude of factors, ranging from demand and supply, mining, regulations, news and media, affect cryptocurrency price. This final year project seeks to build a better understanding of news events’ influence on bitcoin price by establishing correlations between bitcoin price and the types of news that actually have an effect on it. This is done through the use of Sentiment Analysis on news titles to obtain sentiment scores categorised to be positive, neutral or negative. Through which, correlation coefficients of bitcoin price vs sentiment score of news events can be obtained, allowing for the plotting of time series for bitcoin prices vs sentiment scores of news events, thereby allowing for analysis and allowing us to draw inferences.
