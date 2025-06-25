@@ -1,6 +1,6 @@
 # Data Science and Analytics
 
-## Final Year Project
+## Final Year Project (Honours)
 
 ### Cryptocurrency Price Analysis
 
@@ -11,3 +11,6 @@ A multitude of factors, ranging from demand and supply, mining, regulations, new
 2. Data cleaning & preprocessing
 3. Sentiment Analysis
 4. Prediction Model
+
+### References
+
