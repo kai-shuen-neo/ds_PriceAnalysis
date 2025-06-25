@@ -13,5 +13,6 @@ A multitude of factors, ranging from demand and supply, mining, regulations, new
 4. Prediction Model
 
 #### References
-- To view the report, open: Neo Kai Shuen_SCSE19-0204.pdf
-- To view the slides, open: SCSE19-0204 FYP Presentation.pdf
+- To view the report: [Neo Kai Shuen_SCSE19-0204.pdf](https://github.com/kai-shuen-neo/ds_PriceAnalysis/blob/main/Neo%20Kai%20Shuen_SCSE19-0204.pdf)
+- To view the slides: [SCSE19-0204 FYP Presentation.pdf
+](https://github.com/kai-shuen-neo/ds_PriceAnalysis/blob/main/SCSE19-0204%20FYP%20Presentation.pdf)
