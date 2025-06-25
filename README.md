@@ -13,4 +13,5 @@ A multitude of factors, ranging from demand and supply, mining, regulations, new
 4. Prediction Model
 
 ### References
-
+- To view the report, open: Neo Kai Shuen_SCSE19-0204.pdf
+- To view the slides, open: SCSE19-0204 FYP Presentation.pdf
